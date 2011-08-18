@@ -24,7 +24,7 @@
 Manages JACK routing configuration with jack.plumbing
 """
 
-__version__ = "0.9.0"
+__version__ = "0.2.0"
 import os
 from plumberjack import logger
 from twisted.internet import defer
